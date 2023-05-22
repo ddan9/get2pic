@@ -71,7 +71,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### Описание
+#### Описание:
 
 Также будет известен как GET2Pic, GPT2Pic, ChatGPT2Pic, SVG2Pic. Это мини сервис, который позволяет вам рисовать картинки в ChatGPT (дефолтной GPT-3 модели, без оплаты)
 
@@ -83,7 +83,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### Рисование через сервис (промпт 1)
+#### Рисование через сервис (промпт 1):
 
 Промпт для рисования через сервис (не имеет погрешностей в кодировании, но привязывает ChatGPT к нему):
 
@@ -123,7 +123,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### Демо промпта 1
+#### Демо промпта 1:
 
 Демо промпта (так должен выглядеть идеальный ответ):
 
@@ -135,7 +135,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### Автономное рисование (промпт 2)
+#### Автономное рисование (промпт 2):
 
 Промпт для автономного рисования (часто ломает итоговое изображение, но ни к чему не привязан):
 
@@ -179,7 +179,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### Демо промпта 2
+#### Демо промпта 2:
 
 Демо промпта (так должен выглядеть идеальный ответ):
 
@@ -191,7 +191,7 @@ English description will be soon... (after russian will be completed)
 
 <br />
 
-#### ПыСы
+#### ПыСы:
 
 P.S. (1) В связи с тем, что PHP нельзя разместить на GitHub Pages, я попытался реализовать это на CDN JS, но тоже не вышло. Поэтому единственный вариант - поднять свой сервер с этим сервисом и обращаться к нему в запросах
 
@@ -213,7 +213,7 @@ P.S. (8) Соответственно, да, можно просто попро�
 
 <br />
 
-#### Авторы
+#### Авторы:
 
 Разработчик: https://ddan9.github.io 👈
 
@@ -223,7 +223,7 @@ P.S. (8) Соответственно, да, можно просто попро�
 
 ---
 
-### Keywords
+### Keywords:
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
 
@@ -231,7 +231,7 @@ chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot im
 
 <br />
 
-### Ключевые слова
+### Ключевые слова:
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
 
