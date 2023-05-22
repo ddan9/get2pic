@@ -91,3 +91,13 @@ Also knows as GET2Pic, GPT2Pic, ChatGPT2Pic. Mini service that allows you to dra
 P.S. (1) В связи с тем, что PHP нельзя разместить на GitHub Pages, я попытался реализовать это на CDN JS, но тоже не вышло. Поэтому единственный вариант - поднять свой сервер с этим сервисом и обращаться к нему в запросах
 
 P.S. (2) Т.к. ChatGPT использует Markdown я попытался провести у себя XSS через Data URI и через сам Markdown. Не вышло - все скрипты заменяются на void(0). Так что можете не пытаться
+
+<br />
+
+---
+
+####KEYWORDS
+
+chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
+
+<br />
