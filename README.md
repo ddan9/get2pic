@@ -132,7 +132,7 @@ English description will be soon... (after russian will be completed)
 
 Так должен выглядеть идеальный ответ:
 
-Демо 1 | Демо 2 | Демо 3
+Пример 1 | Пример 2 | Пример 3
 --- | --- | ---
 ![demo-ru-1-mini](./demos/ru-1-mini.png) | ![demo-ru-2-mini](./demos/ru-2-mini.png) | ![demo-ru-3-mini](./demos/ru-3-mini.png)
 
@@ -193,7 +193,7 @@ English description will be soon... (after russian will be completed)
 
 Так должен выглядеть идеальный ответ:
 
-Демо 1 | Демо 2 | Демо 3
+Пример 1 | Пример 2 | Пример 3
 --- | --- | ---
 ![demo-ru-1-ext](./demos/ru-1-ext.png) | ![demo-ru-2-ext](./demos/ru-2-ext.png) | ![demo-ru-3-ext](./demos/ru-3-ext.png)
 
