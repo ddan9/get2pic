@@ -47,7 +47,7 @@ Prompt examples will be below
 
 **[ ! ] IMPORTANT:** You must firstly set up the service on your server, and then edit the prompt by inserting the name of your site
 
-You can use [trydex.tk](https://trydex.tk) as site for test queries
+You can use [trydex.tk](https://trydex.tk) as a test site for requests
 
 [🔙 Menu](#Menu)
 
@@ -113,7 +113,7 @@ P.S. (8) Accordingly, yes, you can simply ask him to display some image by refer
 
 **[ ! ] ВАЖНО:** Сервис нужно сначала поднять на своём сервере, а потом отредактировать промпт, вставив имя своего сайта
 
-Вы можете использовать [trydex.tk](https://trydex.tk) в качестве сайта для тестовых запросов
+Вы можете использовать [trydex.tk](https://trydex.tk) в качестве тестового сайта для запросов
 
 [🔙 Меню](#Меню)
 
