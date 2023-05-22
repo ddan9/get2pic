@@ -6,43 +6,61 @@
 
 	$image = $_GET["image"];
 
-	$image_decoded = urldecode($image);
+	if ($image != null && $image != "")
 
-	////////////
-	// UPLOAD //
-	////////////
+	{
 
-	$filetype = "image/svg+xml";
+		//////////////
+		// CHECKING //
+		//////////////
 
-	$fileraw = base64_encode($image_decoded);
+		$image_decoded = urldecode($image);
 
-	$filename = hash('md5', time());
+		$pattern = "/<svg\b[^>]*>.*?<\/svg>/is";
 
-	$filesize = strlen($image_decoded);
+		if (preg_match($pattern, $image_decoded))
 
-	$filebody = "data:" . $filetype . ";base64," . $fileraw;
+		{
 
-	//////////////
-	// DOWNLOAD //
-	//////////////
+			////////////
+			// UPLOAD //
+			////////////
 
-	header("Content-Description: File Transfer");
+			$filetype = "image/svg+xml";
 
-	header("Content-Type: $filetype");
+			$fileraw = base64_encode($image_decoded);
 
-	header("Content-Disposition: attachment; filename=$filename");
+			$filename = hash('md5', time());
 
-	header("Expires: 0");
+			$filesize = strlen($image_decoded);
 
-	header("Cache-Control: no-store, no-cache, must-revalidate");
+			$filebody = "data:" . $filetype . ";base64," . $fileraw;
 
-	header("Pragma: public");
+			//////////////
+			// DOWNLOAD //
+			//////////////
 
-	header("Content-Length: $filesize");
+			header("Content-Description: File Transfer");
 
-	header("Content-Transfer-Encoding: binary");
+			header("Content-Type: $filetype");
 
-	readfile($filebody);
+			header("Content-Disposition: attachment; filename=$filename");
+
+			header("Expires: 0");
+
+			header("Cache-Control: no-store, no-cache, must-revalidate");
+
+			header("Pragma: public");
+
+			header("Content-Length: $filesize");
+
+			header("Content-Transfer-Encoding: binary");
+
+			readfile($filebody);
+
+		};
+
+	};
 
 	////////////
 	// ENDING //
