@@ -59,7 +59,15 @@ English description will be soon... (after russian will be completed)
 
 - [Рисование через сервис (промпт 1) ⏪](#Рисование-через-сервис-промпт-1)
 
-- [Использование ⏪](#Использование)
+- [Демо промпта 1 ⏪](#Демо-промпта-1)
+
+- [Автономное рисование (промпт 2) ⏪](#Автономное-рисование-промпт-2)
+
+- [Демо промпта 2 ⏪](#Демо-промпта-2)
+
+- [ПыСы ⏪](#ПыСы)
+
+- [Ключевые слова ⏪](#Ключевые-слова)
 
 <br />
 
@@ -196,6 +204,13 @@ P.S. (8) Соответственно, да, можно просто попро�
 ---
 
 #### Keywords
+
+chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
+
+<br />
+
+
+#### Ключевые слова
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
 
