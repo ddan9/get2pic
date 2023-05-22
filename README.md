@@ -86,6 +86,13 @@ Also knows as GET2Pic, GPT2Pic, ChatGPT2Pic. Mini service that allows you to dra
 
 ~~~
 
+Демо промпта (так должен выглядеть идеальный ответ):
+
+--|--|--
+![demo-ru-1-ext](./demos/ru-1-ext.png)
+![demo-ru-2-ext](./demos/ru-2-ext.png)
+![demo-ru-3-ext](./demos/ru-3-ext.png)
+
 <br />
 
 P.S. (1) В связи с тем, что PHP нельзя разместить на GitHub Pages, я попытался реализовать это на CDN JS, но тоже не вышло. Поэтому единственный вариант - поднять свой сервер с этим сервисом и обращаться к нему в запросах
