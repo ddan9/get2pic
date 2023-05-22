@@ -39,7 +39,7 @@
 
 Also known as GET2Pic, GPT2Pic, ChatGPT2Pic, SVG2Pic
 
-This is a mini service that allows you to draw pictures in ChatGPT (default GPT-3 model, free to use). Due to the fact that ChatGPT uses Markdown to format its output, you can make it output various images, and you can also teach it to draw on its own. It understands the SVG format very well. SVG is the same XML. This service is designed so that ChatGPT does not have to encode the SVG image code in base64 for the Data URI itself, because at this stage, he was very stupid and as a result the image could not be displayed at all. Prompt examples will be below
+This is a simple mini service that allows you to draw pictures in ChatGPT (default GPT-3 model, free to use). Due to the fact that ChatGPT uses Markdown to format its output, you can make it output various images, and you can also teach it to draw on its own. It understands the SVG format very well. SVG is the same XML. This service is designed so that ChatGPT does not have to encode the SVG image code in base64 for the Data URI itself, because at this stage, he was very stupid and as a result the image could not be displayed at all. Prompt examples will be below
 
 **[ ! ] IMPORTANT:** You must firstly set up the service on your server, and then edit the prompt by inserting the name of your site
 
@@ -99,7 +99,7 @@ P.S. (8) Accordingly, yes, you can simply ask him to display some image by refer
 
 Также будет известен как GET2Pic, GPT2Pic, ChatGPT2Pic, SVG2Pic
 
-Это мини сервис, который позволяет вам рисовать картинки в ChatGPT (дефолтной GPT-3 модели, без оплаты). В связи с тем, что ChatGPT для форматирования своего вывода использует Markdown, можно заставить его выводить различные изображения, а также можно научить его самостоятельно рисовать. Он отлично понимает формат SVG, т.к. SVG - это тот же XML. Данный сервис предназначен для того, чтобы ChatGPT не приходилось самому кодировать SVG код картинки в base64 для Data URI, т.к. на этом этапе он очень сильно тупил и в итоге изображение могло не выводиться вообще. Примеры промптов будут ниже
+Это простой мини сервис, который позволяет вам рисовать картинки в ChatGPT (дефолтной GPT-3 модели, без оплаты). В связи с тем, что ChatGPT для форматирования своего вывода использует Markdown, можно заставить его выводить различные изображения, а также можно научить его самостоятельно рисовать. Он отлично понимает формат SVG, т.к. SVG - это тот же XML. Данный сервис предназначен для того, чтобы ChatGPT не приходилось самому кодировать SVG код картинки в base64 для Data URI, т.к. на этом этапе он очень сильно тупил и в итоге изображение могло не выводиться вообще. Примеры промптов будут ниже
 
 **[ ! ] ВАЖНО:** Сервис нужно сначала поднять на своём сервере, а потом отредактировать промпт, вставив имя своего сайта
 
