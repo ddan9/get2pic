@@ -31,7 +31,7 @@
 
 - [Drawing autonomic ⏪](#Usage)
 
-- [P.S. ⏪](#P-S)
+- [P.S. ⏪](#P-S-)
 
 - [Keywords ⏪](#Keywords)
 
@@ -45,7 +45,7 @@ This is a mini service that allows you to draw pictures in ChatGPT (default GPT-
 
 **[ ! ] IMPORTANT:** You must firstly set up the service on your server, and then edit the prompt by inserting the name of your site
 
-[🔙 Меню](#Меню)
+[🔙 Menu](#Menu)
 
 <br />
 
@@ -67,7 +67,7 @@ P.S. (7) You can write an API service for aggregation between other image genera
 
 P.S. (8) Accordingly, yes, you can simply ask him to display some image by reference. You can even display the video from the link. It can even give you a random YouTube video, music, etc. everything that is possible on Markdown (at the same time, this is on the default GPT-3, free to use)
 
-[🔙 Меню](#Меню)
+[🔙 Menu](#Menu)
 
 <br />
 
