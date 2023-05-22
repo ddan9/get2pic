@@ -60,6 +60,14 @@
 
 		};
 
+	}
+
+	else
+
+	{
+
+		echo "This is <a href='https://github.com/ddan9/get2pic'>get2pic</a> service. You need to check the <a href='https://github.com/ddan9/get2pic'>sources</a> on GitHub for understanding how to use it!";
+
 	};
 
 	////////////
