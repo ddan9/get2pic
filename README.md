@@ -67,7 +67,7 @@ P.S. (5) In general, you can encode the code of an SVG file on your machine and 
 
 P.S. (6) This service script can also be a general solution for displaying/downloading pictures on demand. It can be from a database, it can be from another site, etc. The trick is that you can refer to it even from the usual "img" tag and everything will work
 
-P.S. (7) You can write an API service for aggregation between other image generators, it will have to accept a request and send it to other services, then pick up and display the resulting image. Thus, you can generate images in GPT-3 without waiting for the release of GPT-4 (only Sber has thought of this so far, but it has been implemented very badly - I checked)
+P.S. (7) You can write an API service for aggregation between other image generators, it will have to accept a request and send it to other services, then pick up and display the resulting image. Thus, you can generate images in GPT-3 without waiting for the release of GPT-4 (only Sber has thought of this so far, but it has been implemented very badly - I checked). Lately I found [that](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation)
 
 P.S. (8) Accordingly, yes, you can simply ask him to display some image by reference. You can even display the video from the link. It can even give you a random YouTube video, music, etc. everything that is possible on Markdown (at the same time, this is on the default GPT-3, free to use)
 
@@ -259,7 +259,7 @@ P.S. (5) В целом можно кодировать код SVG файла у 
 
 P.S. (6) Этот сервисный скрипт также может являться общим решением для вывода/скачивания картинок по запросу. Можно из базы данных, можно с другого сайта и т.д. Фишка в том, что на него можно ссылаться даже из обычного "img" тэга и всё будет работать
 
-P.S. (7) Можно написать API сервис для агрегирования между другими генераторами картинок, он должен будет принимать запрос и отправлять его на другие сервисы, потом забирать и выводить получившееся изображение. Таким образом можно сделать генерацию изображений в GPT-3, не дожидаясь выхода GPT-4 (до такого пока додумался только Сбер, но реализовал из рук вон плохо - я проверял)
+P.S. (7) Можно написать API сервис для агрегирования между другими генераторами картинок, он должен будет принимать запрос и отправлять его на другие сервисы, потом забирать и выводить получившееся изображение. Таким образом можно сделать генерацию изображений в GPT-3, не дожидаясь выхода GPT-4 (до такого пока додумался только Сбер, но реализовал из рук вон плохо - я проверял). Позже я нашёл [вот это](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation)
 
 P.S. (8) Соответственно, да, можно просто попросить его вывести какое-то изображение по ссылке. Можно даже вывести видео по ссылке. Он может даже вывести вам рандомное YouTube видео, музыку и т.д. всё то что можно на Markdown (при этом это на дефолтной GPT-3, без оплаты)
 
