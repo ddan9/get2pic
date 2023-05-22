@@ -55,8 +55,6 @@ English description will be soon... (after russian will be completed)
 
 - [Описание ⏪](#Описание)
 
-- [Особенности ⏪](#Особенности)
-
 - [Рисование через сервис (промпт 1) ⏪](#Рисование-через-сервис-промпт-1)
 
 - [Демо промпта 1 ⏪](#Демо-промпта-1)
@@ -66,6 +64,8 @@ English description will be soon... (after russian will be completed)
 - [Демо промпта 2 ⏪](#Демо-промпта-2)
 
 - [ПыСы ⏪](#ПыСы)
+
+- [Авторы ⏪](#Авторы)
 
 - [Ключевые слова ⏪](#Ключевые-слова)
 
@@ -78,6 +78,8 @@ English description will be soon... (after russian will be completed)
 В связи с тем, что ChatGPT для форматирования текста использует Markdown, можно заставить его выводить различные изображения, а также можно научить его самостоятельно рисовать. Он отлично понимает формат SVG, т.к. SVG - это тот же XML. Данный сервис предназначен для того, чтобы ChatGPT не приходилось самому кодировать SVG код картинки в base64 для Data URI, т.к. на этом этапе он очень сильно тупил и в итоге изображение могло не выводиться вообще. Примеры промптов будут ниже
 
 [!] ВАЖНО: Сервис нужно сначала поднять на своём сервере
+
+[🔙 Меню](#Меню)
 
 <br />
 
@@ -117,6 +119,8 @@ English description will be soon... (after russian will be completed)
 
 ~~~
 
+[🔙 Меню](#Меню)
+
 <br />
 
 #### Демо промпта 1
@@ -126,6 +130,8 @@ English description will be soon... (after russian will be completed)
 Демо 1 | Демо 2 | Демо 3
 --- | --- | ---
 ![demo-ru-1-mini](./demos/ru-1-mini.png) | ![demo-ru-2-mini](./demos/ru-2-mini.png) | ![demo-ru-3-mini](./demos/ru-3-mini.png)
+
+[🔙 Меню](#Меню)
 
 <br />
 
@@ -169,6 +175,8 @@ English description will be soon... (after russian will be completed)
 
 ~~~
 
+[🔙 Меню](#Меню)
+
 <br />
 
 #### Демо промпта 2
@@ -178,6 +186,8 @@ English description will be soon... (after russian will be completed)
 Демо 1 | Демо 2 | Демо 3
 --- | --- | ---
 ![demo-ru-1-ext](./demos/ru-1-ext.png) | ![demo-ru-2-ext](./demos/ru-2-ext.png) | ![demo-ru-3-ext](./demos/ru-3-ext.png)
+
+[🔙 Меню](#Меню)
 
 <br />
 
@@ -199,19 +209,32 @@ P.S. (7) Можно написать API сервис для агрегиров�
 
 P.S. (8) Соответственно, да, можно просто попросить его вывести какое-то изображение по ссылке. Можно даже вывести видео по ссылке. Он может даже вывести вам рандомное YouTube видео, музыку и т.д. всё то что можно на Markdown (при этом это на дефолтной GPT-3)
 
+[🔙 Меню](#Меню)
+
+<br />
+
+#### Авторы
+
+Разработчик: https://ddan9.github.io 👈
+
+[🔙 Меню](#Меню)
+
 <br />
 
 ---
 
-#### Keywords
+### Keywords
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
+
+[🔙 Меню](#Меню)
 
 <br />
 
-
-#### Ключевые слова
+### Ключевые слова
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
+
+[🔙 Меню](#Меню)
 
 <br />
