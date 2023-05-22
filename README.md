@@ -25,8 +25,6 @@
 
 - [Description ⏪](#Description)
 
-- [Features ⏪](#Features)
-
 - [Drawing through the service ⏪](#Usage)
 
 - [Drawing autonomic ⏪](#Usage)
