@@ -23,7 +23,7 @@
 
 #### Menu:
 
-- [Description ⏪](#Edited-Bomber)
+- [Description ⏪](#Description)
 
 - [Features ⏪](#Features)
 
@@ -31,19 +31,43 @@
 
 - [Drawing autonomic ⏪](#Usage)
 
-- [P.S. ⏪](#PS)
+- [P.S. ⏪](#P-S)
 
 - [Keywords ⏪](#Keywords)
 
 <br />
 
-#### Description
+#### Description:
 
 Also known as GET2Pic, GPT2Pic, ChatGPT2Pic, SVG2Pic
 
 This is a mini service that allows you to draw pictures in ChatGPT (default GPT-3 model, free to use). Due to the fact that ChatGPT uses Markdown to format its output, you can make it output various images, and you can also teach it to draw on its own. It understands the SVG format very well. SVG is the same XML. This service is designed so that ChatGPT does not have to encode the SVG image code in base64 for the Data URI itself, because at this stage, he was very stupid and as a result the image could not be displayed at all. Prompt examples will be below
 
 **[ ! ] IMPORTANT:** You must firstly set up the service on your server, and then edit the prompt by inserting the name of your site
+
+[🔙 Меню](#Меню)
+
+<br />
+
+#### P.S:
+
+P.S. (1) Due to the fact that PHP cannot be hosted on GitHub Pages, I tried to implement it on CDN JS, but it also did not work out. Therefore, the only option is to set up your server with this service and refer to it in requests
+
+P.S. (2) Because ChatGPT uses Markdown I tried to pass XSS through Data URI and through Markdown itself. Failed - all scripts are replaced with void(0). So don't try, don't waste your time
+
+P.S. (3) I don't know why ChatGPT is so bad at base64 encoding, although he himself knows what it is, how it works and, in general, can even encode long strings. But often lies
+
+P.S. (4) In general, it is possible to hide all unnecessary output, leaving only the image output, if it is a request through a service, but this option is not safe, because he may begin to lose data due to the fact that he will have nothing to rely on at the next stop
+
+P.S. (5) In general, you can encode the code of an SVG file on your machine and then give him the encoding to display directly to it. This option would be somewhere between the 1st and 2nd options above. However, then the whole essence of his self-drawing is simply lost
+
+P.S. (6) This service script can also be a general solution for displaying/downloading pictures on demand. It can be from a database, it can be from another site, etc. The trick is that you can refer to it even from the usual "img" tag and everything will work
+
+P.S. (7) You can write an API service for aggregation between other image generators, it will have to accept a request and send it to other services, then pick up and display the resulting image. Thus, you can generate images in GPT-3 without waiting for the release of GPT-4 (only Sber has thought of this so far, but it has been implemented very badly - I checked)
+
+P.S. (8) Accordingly, yes, you can simply ask him to display some image by reference. You can even display the video from the link. It can even give you a random YouTube video, music, etc. everything that is possible on Markdown (at the same time, this is on the default GPT-3, free to use)
+
+[🔙 Меню](#Меню)
 
 <br />
 
@@ -225,7 +249,7 @@ P.S. (6) Этот сервисный скрипт также может явля
 
 P.S. (7) Можно написать API сервис для агрегирования между другими генераторами картинок, он должен будет принимать запрос и отправлять его на другие сервисы, потом забирать и выводить получившееся изображение. Таким образом можно сделать генерацию изображений в GPT-3, не дожидаясь выхода GPT-4 (до такого пока додумался только Сбер, но реализовал из рук вон плохо - я проверял)
 
-P.S. (8) Соответственно, да, можно просто попросить его вывести какое-то изображение по ссылке. Можно даже вывести видео по ссылке. Он может даже вывести вам рандомное YouTube видео, музыку и т.д. всё то что можно на Markdown (при этом это на дефолтной GPT-3)
+P.S. (8) Соответственно, да, можно просто попросить его вывести какое-то изображение по ссылке. Можно даже вывести видео по ссылке. Он может даже вывести вам рандомное YouTube видео, музыку и т.д. всё то что можно на Markdown (при этом это на дефолтной GPT-3, без оплаты)
 
 [🔙 Меню](#Меню)
 
