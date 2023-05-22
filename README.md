@@ -17,7 +17,27 @@
 
 ---
 
-#### Description in English
+### Description in English
+
+[🇺🇸 🔝 Go up](#Language-translations)
+
+#### Menu:
+
+- [Description ⏪](#Edited-Bomber)
+
+- [Features ⏪](#Features)
+
+- [Drawing through the service ⏪](#Usage)
+
+- [Drawing autonomic ⏪](#Usage)
+
+- [P.S. ⏪](#PS)
+
+- [Keywords ⏪](#Keywords)
+
+<br />
+
+#### Description
 
 Also knows as GET2Pic, GPT2Pic, ChatGPT2Pic. Mini service that allows you to draw pictures/images/svg in ChatGPT (Model GPT-3 stock)
 
@@ -27,9 +47,23 @@ English description will be soon... (after russian will be completed)
 
 ---
 
+### Описание на Русском
+
+[🇷🇺 🔝 Наверх](#Language-translations)
+
+#### Меню:
+
+- [Описание ⏪](#Описание)
+
+- [Особенности ⏪](#Особенности)
+
+- [Рисование через сервис (промпт 1) ⏪](#Рисование-через-сервис-промпт-1)
+
+- [Использование ⏪](#Использование)
+
 <br />
 
-#### Описание на Русском
+#### Описание
 
 Также будет известен как GET2Pic, GPT2Pic, ChatGPT2Pic, SVG2Pic. Это мини сервис, который позволяет вам рисовать картинки в ChatGPT (дефолтной GPT-3 модели, без оплаты)
 
@@ -161,7 +195,7 @@ P.S. (8) Соответственно, да, можно просто попро�
 
 ---
 
-#### KEYWORDS
+#### Keywords
 
 chatgpt gpt-3 gpt-3.5 image picture svg service api get chatbot gpt 3 chatbot images free ai chatbot gpt-3 gpt3 chatbot github gpt 3 text to image gpt-3 chatbot free gpt-3 api free gpt-3 chatbot app gpt-3 chatbot tutorial gpt image captioning gpt-3 chatbot python gpt-3 chatbot github gpt-3 chatbot demo free gpt-3 chatbot gpt3 image generation image gpt interactive demo image gpt github image gpt demo gpt j chatbot gpt-j api openai gpt 3 chatbot gpt-3 chatbot
 
