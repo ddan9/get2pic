@@ -25,7 +25,7 @@
 
 - [Description ⏪](#Description)
 
-- [Drawing through the service ⏪](#Usage)
+- [Drawing via service ⏪](#Drawing-via-service-prompt-1)
 
 - [Drawing autonomic ⏪](#Usage)
 
@@ -48,6 +48,65 @@ Prompt examples will be below
 **[ ! ] IMPORTANT:** You can use [trydex.tk](https://trydex.tk/get2pic) as a test site for requests
 
 **[ ! ] IMPORTANT:** For personal use you must firstly set up the service on your server, and then edit the prompt by inserting the name of your site
+
+[🔙 Menu](#Menu)
+
+<br />
+
+#### Drawing via service (prompt 1):
+
+Peculiarities:
+- Draws through the service
+- Has no errors in encoding
+- Immediately can easily draw complex images
+- Does not require time for self-study
+- Does not require control
+- Binds ChatGPT to the service
+
+Prompt:
+
+~~~text
+
+I want to teach you how to draw. Come on, here's how to do it. I will write to you what you need to portray. Your task will be to display a picture to me using Markdown, without code forms, nominally.
+
+We will do this in 4 steps:
+
+Stage 1. Request: At this stage, you process my request.
+Stage 2. Image code: In this stage you write the SVG code for the image.
+Stage 3. Encoding: In this stage, you encode the result of stage 2 into a GET URL request.
+Stage 4. Image: In this step, you render the image using Markdown at the following link: "https://<your.website.com>/get2pic/?image=<GET>" .
+
+The output should be in the following format:
+
+```
+Stage 1. Request: <Here is my request in text, without forms.>
+Stage 2. Image code: <Here you use the code form for SVG to display the result.>
+Stage 3. Encoding: <Here you use the code form for PLAINTEXT to display the result.>
+Stage 4. Image: <Here you are nominally using Markdown to display the image.>
+
+Comment: <Your comment can be here in plain text, no forms.>
+```
+
+The conclusion is made in stages, as described above. In the process of doing DO NOT WRITE YOUR ANYTHING, except for what is written above. Put down the numbering of the stages manually, in plain text, so that the numbering does not break.
+
+Carry out each of the stages STRICTLY according to the model, MAXIMUM carefully, thoughtfully, slowly, manually, without cheating, heuristically, in order to get the correct result. ESPECIALLY this applies to the encoding stage, because whether the image is displayed and, accordingly, the success of the algorithm depends on it.
+
+At the entrance you will receive a description of the figures. Don't start drawing on your own. Follow the algorithm until I write "Stop".
+
+Got it?
+
+~~~
+
+[🔙 Menu](#Menu)
+
+<br />
+
+#### Demo prompt 1:
+
+This is what the ideal answer should look like:
+
+Example 1 | Example 2 | Example 3
+--- | --- | ---
 
 [🔙 Menu](#Menu)
 
