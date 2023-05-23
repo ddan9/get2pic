@@ -178,6 +178,7 @@ This is what the ideal answer should look like:
 
 Example 1 | Example 2 | Example 3
 --- | --- | ---
+![demo-en-1-ext](./demos/en-1-ext.png) | ![demo-en-2-ext](./demos/en-2-ext.png) | ![demo-en-3-ext](./demos/en-3-ext.png)
 
 [🔙 Menu](#Menu)
 
