@@ -27,6 +27,8 @@
 
 - [Drawing via service ⏪](#Drawing-via-service-prompt-1)
 
+- [Demo prompt 1 ⏪](#Demo-prompt-1)
+
 - [Drawing autonomic ⏪](#Usage)
 
 - [P.S. ⏪](#PS)
