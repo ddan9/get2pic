@@ -25,11 +25,11 @@
 
 - [Description ⏪](#Description)
 
-- [Drawing via service ⏪](#Drawing-via-service-prompt-1)
+- [Drawing via service (prompt 1) ⏪](#Drawing-via-service-prompt-1)
 
 - [Demo prompt 1 ⏪](#Demo-prompt-1)
 
-- [Autonomic drawing ⏪](#Autonomic-drawing-prompt-1)
+- [Autonomic drawing (prompt 2) ⏪](#Autonomic-drawing-prompt-2)
 
 - [Demo prompt 2 ⏪](#Demo-prompt-2)
 
