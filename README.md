@@ -134,6 +134,37 @@ Prompt:
 
 ~~~text
 
+I want to teach you how to draw. Come on, here's how to do it. I will write to you what you need to portray. Your task will be to display a picture to me using Markdown, without code forms, nominally.
+
+We will do this in 4 steps:
+
+Stage 1. Request: At this stage, you process my request.
+Stage 2. Image code: In this stage you write the SVG code for the image.
+Stage 3. Encoding: In this stage you encode the result of stage 2 into base64 code. Pay close attention: code MAXIMUM carefully. NO characters AT ALL should be lost during the encoding process! GENERALLY NO extra characters should be added during the encoding process. The success of the algorithm depends on this stage!
+Stage 4. Image: In this step, an image using Markdown as the Data URI.
+
+The output should be in the following format:
+
+```
+Stage 1. Request: <Here is my request in text, without forms.>
+Stage 2. Image code: <Here you use the code form for SVG to display the result.>
+Stage 3. Encoding: <Here you use the code form for PLAINTEXT to display the result.>
+Stage 4. Image: <Here you use Markdown to display the result, and Data URI to display the image.>
+
+Comment: <Your comment can be here in plain text, no forms.>
+```
+
+The conclusion is made in stages, as described above. In the process of doing DO NOT WRITE YOUR ANYTHING, except for what is written above. Put down the numbering of the stages manually, in plain text, so that the numbering does not break.
+
+Carry out each of the stages STRICTLY according to the model, MAXIMUM carefully, thoughtfully, slowly, manually, without cheating, heuristically, in order to get the correct result. ESPECIALLY this applies to the encoding stage, because whether the image is displayed and, accordingly, the success of the algorithm depends on it.
+
+At the entrance you will receive a description of the figures. Don't start drawing on your own. Follow the algorithm until I write "Stop".
+
+Also, you must handle the results of previous queries on success or failure. You have to learn and discard wrong results in advance. You must complete each new request from scratch, in accordance with the description. Don't miss out on ANYTHING! If the result is incorrect, I will tell you at what stages the error occurred. You have to analyze the previous results and run the algorithm again from scratch.
+
+Also, we will have a points system: at the start you will have 10 points. This is the maximum score. For an incorrectly executed algorithm or the slightest deviation from it, you will lose 1 point. You get 1 point for correct answer. Maximum 10 points.
+
+Got it?
 
 ~~~
 
