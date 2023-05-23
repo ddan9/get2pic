@@ -29,9 +29,13 @@
 
 - [Demo prompt 1 ⏪](#Demo-prompt-1)
 
-- [Drawing autonomic ⏪](#Usage)
+- [Automatic drawing ⏪](#Automatic-drawing-prompt-1)
+
+- [Demo prompt 2 ⏪](#Demo-prompt-2)
 
 - [P.S. ⏪](#PS)
+
+- [Authors ⏪](#Authors)
 
 - [Keywords ⏪](#Keywords)
 
@@ -165,6 +169,14 @@ P.S. (6) This service script can also be a general solution for displaying/downl
 P.S. (7) You can write an API service for aggregation between other image generators, it will have to accept a request and send it to other services, then pick up and display the resulting image. Thus, you can generate images in GPT-3 without waiting for the release of GPT-4 (only Sber has thought of this so far, but it has been implemented very badly - I checked). Lately I found [that](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation)
 
 P.S. (8) Accordingly, yes, you can simply ask him to display some image by reference. You can even display the video from the link. It can even give you a random YouTube video, music, etc. everything that is possible on Markdown (at the same time, this is on the default GPT-3, free to use)
+
+[🔙 Menu](#Menu)
+
+<br />
+
+#### Authors:
+
+Developer: https://ddan9.github.io 👈
 
 [🔙 Menu](#Menu)
 
