@@ -115,6 +115,39 @@ Example 1 | Example 2 | Example 3
 
 <br />
 
+#### Autonomic drawing (prompt 2):
+
+Peculiarities:
+- For self-drawing without service
+- Often breaks the final image due to incorrect encoding
+- It is not recommended to request complex images
+- Takes time to learn
+- Requires control
+- Doesn't tie ChatGPT to anything
+- You can also use the English version of the prompt (like how ChatGPT understands English better)
+
+Prompt:
+
+~~~text
+
+
+~~~
+
+[🔙 Menu](#Menu)
+
+<br />
+
+#### Demo prompt 2:
+
+This is what the ideal answer should look like:
+
+Example 1 | Example 2 | Example 3
+--- | --- | ---
+
+[🔙 Menu](#Menu)
+
+<br />
+
 #### P.S:
 
 P.S. (1) Due to the fact that PHP cannot be hosted on GitHub Pages, I tried to implement it on CDN JS, but it also did not work out. Therefore, the only option is to set up your server with this service and refer to it in requests
