@@ -29,7 +29,7 @@
 
 - [Demo prompt 1 ⏪](#Demo-prompt-1)
 
-- [Automatic drawing ⏪](#Automatic-drawing-prompt-1)
+- [Autonomic drawing ⏪](#Autonomic-drawing-prompt-1)
 
 - [Demo prompt 2 ⏪](#Demo-prompt-2)
 
