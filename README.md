@@ -107,6 +107,7 @@ This is what the ideal answer should look like:
 
 Example 1 | Example 2 | Example 3
 --- | --- | ---
+![demo-en-1-mini](./demos/en-1-mini.png) | ![demo-en-2-mini](./demos/en-2-mini.png) | ![demo-en-3-mini](./demos/en-3-mini.png)
 
 [🔙 Menu](#Menu)
 
