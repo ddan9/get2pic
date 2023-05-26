@@ -214,7 +214,7 @@ P.S. (9) It is theoretically (and practically) possible to develop a browser ext
 
 #### Similar projects:
 
-- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) (API image generation AI)
+- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - API image generation AI
 
 [🔙 Menu](#Menu)
 
@@ -248,7 +248,7 @@ Developer: https://ddan9.github.io 👈
 
 - [Галерея ⏪](./gallery)
 
-- [Похожие проекты ⏪](#Похожие проекты)
+- [Похожие проекты ⏪](#Похожие-проекты)
 
 - [ПыСы ⏪](#ПыСы)
 
@@ -428,7 +428,7 @@ P.S. (9) Теоретически (да и практически) можно р
 
 #### Похожие проекты:
 
-- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) (API для генерации изображений с помощью ИИ)
+- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - API для генерации изображений с помощью ИИ
 
 [🔙 Меню](#Меню)
 
