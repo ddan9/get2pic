@@ -214,7 +214,7 @@ P.S. (9) It is theoretically (and practically) possible to develop a browser ext
 
 #### Similar projects:
 
-- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - API image generation AI
+- [pollinations.ai](https://github.com/AYIDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation) - API for image generation AI
 
 [🔙 Menu](#Menu)
 
