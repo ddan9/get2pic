@@ -132,7 +132,6 @@ Peculiarities:
 - Takes time to learn
 - Requires control
 - Doesn't tie ChatGPT to anything
-- You can also use the English version of the prompt (like how ChatGPT understands English better)
 
 Prompt:
 
