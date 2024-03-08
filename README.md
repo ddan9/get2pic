@@ -7,6 +7,8 @@
  |___/               |_|   
 ```
 
+[![Stargazers over time](https://starchart.cc/ddan9/get2pic.svg?variant=adaptive)](https://starchart.cc/ddan9/get2pic)
+
 ### Language translations
 
 - [🇺🇸 Description in English](#Description-in-English)
